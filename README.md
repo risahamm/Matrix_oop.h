@@ -10,7 +10,7 @@ Implementation of basic operations with matrices: comparison, addition, subtract
 - The program code is located in the src folder;
 - The code of the program is written in accordance with Google style;
 - Implemented: S21Matrix class, default constructor, parametrized constructor, copy and move constructors, assignment and compare operators overload, destructor, accessors and mutators.
-- Full coverage of container classes methods is provided with unit-tests using the GTest library;
+- Full coverage of class methods is provided with unit-tests using the GTest library;
 - Makefile with targets clean, check_style, s21_matrix_oop.a, test, gcov_report is provided.
 
 ### Class s21Matrix
