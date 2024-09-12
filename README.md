@@ -1,6 +1,6 @@
 # s21_matrix+
 
-Implementation of the s21_matrix_oop.h library. Study project.
+#### Implementation of the s21_matrix_oop.h library. Study project.
 
 The russian version of the task can be found in the repository.
 
