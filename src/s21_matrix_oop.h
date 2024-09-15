@@ -1,5 +1,5 @@
-#ifndef S21_MATRIX_OOP_H
-#define S21_MATRIX_OOP_H
+#ifndef S21_MATRIX_OOP_H_
+#define S21_MATRIX_OOP_H_
 
 #include <cmath>
 #include <iostream>
@@ -65,4 +65,4 @@ class S21Matrix {
                   int delete_col);  // returns minor for a matrix
 };
 
-#endif  // S21_MATRIX_OOP_H
+#endif  // S21_MATRIX_OOP_H_

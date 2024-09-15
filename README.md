@@ -7,7 +7,7 @@ The russian version of the task can be found in the repository.
 Implementation of basic operations with matrices: comparison, addition, subtraction, multiplication, multiplication by number, transpose, calculation of determinant, calculation of matrix of algebraic complements, finding inverse of the matrix.
 
 - The program is developed in C++ language of C++17 standard using gcc compiler;
-- The program code is located in the src folder;
+- The program code is located in the *src* folder;
 - The code of the program is written in accordance with Google style;
 - Implemented: S21Matrix class, default constructor, parametrized constructor, copy and move constructors, assignment and compare operators overload, destructor, accessors and mutators.
 - Full coverage of class methods is provided with unit-tests using the GTest library;
