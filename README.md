@@ -2,8 +2,6 @@
 
 #### Implementation of the s21_matrix_oop.h library. Study project.
 
-The russian version of the task can be found in the repository.
-
 Implementation of basic operations with matrices: comparison, addition, subtraction, multiplication, multiplication by number, transpose, calculation of determinant, calculation of matrix of algebraic complements, finding inverse of the matrix.
 
 - The program is developed in C++ language of C++17 standard using gcc compiler;
